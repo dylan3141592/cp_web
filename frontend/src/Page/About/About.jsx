@@ -9,7 +9,7 @@ const About = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-slate-900"></div>
         <div className="absolute bottom-8 left-8 md:bottom-12 md:left-12 text-white">
           <h3 className="text-2xl md:text-4xl font-bold mb-2 md:mb-3">
-            ABC 자산운용사는
+            X자산운용사는
           </h3>
           <p className="text-base md:text-xl font-light">
             혁신과 신뢰로 글로벌 시장을 선도합니다.
@@ -23,7 +23,7 @@ const About = () => {
         </h2>
         <div className="text-lg leading-relaxed text-gray-600 space-y-6">
           <p>
-            ABC 자산운용사는 2018년 설립 이래로 암호화폐 분야 투자로
+            X자산운용사는 2018년 설립 이래로 암호화폐 분야 투자로
             앞장서고 있습니다.
           </p>
           <p>
